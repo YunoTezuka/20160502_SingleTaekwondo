@@ -1,0 +1,194 @@
+C:\Documents and Settings\123\桌面\kkk\comt\comt\bin\Debug\comt.exe
+C:\Documents and Settings\123\桌面\kkk\comt\comt\bin\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\kkk\comt\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\kkk\comt\comt\obj\Debug\comt.Form1.resources
+C:\Documents and Settings\123\桌面\kkk\comt\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Documents and Settings\123\桌面\kkk\comt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Documents and Settings\123\桌面\kkk\comt\comt\obj\Debug\comt.exe
+C:\Documents and Settings\123\桌面\kkk\comt\comt\obj\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\obj\Debug\comt.exe
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\obj\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\bin\Debug\comt.exe
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\bin\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form1.resources
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Documents and Settings\123\桌面\kkk\新資料夾 (5)\藍芽4.0Csharpcomt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\obj\Debug\comt.exe
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\obj\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form1.resources
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\bin\Debug\comt.exe
+C:\Documents and Settings\123\桌面\kkk\藍芽4.0Csharpcomt111\藍芽4.0Csharpcomt\comt\bin\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.exe
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form1.resources
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form2.resources
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.exe
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.pdb
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Keyboard.resources
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.ImportSetting.resources
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Office.dll
+C:\Documents and Settings\123\桌面\產學\Test\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.exe
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.pdb
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.exe
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.pdb
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Office.dll
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\ResolveAssemblyReference.cache
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Demonstrate.resources
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form1.resources
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form2.resources
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.ImportSetting.resources
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Keyboard.resources
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Properties.Resources.resources
+E:\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.exe
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.pdb
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.exe
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.pdb
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Office.dll
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\ResolveAssemblyReference.cache
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Demonstrate.resources
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form1.resources
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form2.resources
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.ImportSetting.resources
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Keyboard.resources
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Properties.Resources.resources
+E:\20130426\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.exe
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.pdb
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.exe
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\comt.pdb
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Office.dll
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Demonstrate.resources
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form1.resources
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form2.resources
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.ImportSetting.resources
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Keyboard.resources
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Users\BEST\Desktop\20130427\這裡改\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Rating.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\TAEKWONDO.exe.manifest
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\TAEKWONDO.application
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\TAEKWONDO.exe
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\TAEKWONDO.pdb
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Office.dll
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Demonstrate.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form1.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Form2.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.ImportSetting.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Keyboard.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Rank.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Rating.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.Result.resources
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\TAEKWONDO.exe.manifest
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\TAEKWONDO.application
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\TAEKWONDO.exe
+C:\Users\BEST\Desktop\20130427\就這個\20130520_0237_打包前\DemoVer1\20130124_藍芽4.0Csharpcom利用COMPort\藍芽4.0Csharpcomt\comt\obj\Debug\TAEKWONDO.pdb
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.pdb
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.pdb
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe.manifest
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.application
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.pdb
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.csprojResolveAssemblyReference.cache
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Demonstrate.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form1.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form2.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.ImportSetting.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Keyboard.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rank.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rating.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Result.resources
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe.manifest
+C:\Users\BEST\Desktop\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.application
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.pdb
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe.manifest
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.application
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.pdb
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Demonstrate.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form1.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form2.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.ImportSetting.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Keyboard.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rank.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rating.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Result.resources
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe.manifest
+C:\Users\Sam@Best\Desktop\跆拳道\20130427\This20130609改這個_版面改好\20130620_0058_This20130609改這個_版面改好\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.application
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.pdb
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe.manifest
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.application
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.pdb
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Demonstrate.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form1.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form2.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.ImportSetting.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Keyboard.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rank.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rating.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Result.resources
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe.manifest
+C:\Users\Sam@Best\Desktop\TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.application
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.pdb
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe.manifest
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.application
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.exe
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\TAEKWONDO.pdb
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.csprojResolveAssemblyReference.cache
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Demonstrate.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form1.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Form2.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.ImportSetting.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Keyboard.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Properties.Resources.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rank.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Rating.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.Result.resources
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\comt.csproj.GenerateResource.Cache
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.exe.manifest
+C:\Users\BEST\Desktop\20130427\20120628_0405TK\20130427\This20130609\20130620_0058_This20130609\20130520_0237\DemoVer1\20130603\20130603\comt\obj\Debug\TAEKWONDO.application

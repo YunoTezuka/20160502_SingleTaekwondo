@@ -1,0 +1,2 @@
+1.請將所 "讀取的excel檔案" 和 "Country資料夾" 放置於同一目錄下
+2.Country資料夾 內 之blank.jpg 為 預設圖檔 若該國家不存在於資料夾內 則會顯示預設圖blank.jpg

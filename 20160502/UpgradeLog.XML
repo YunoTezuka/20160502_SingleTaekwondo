@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="comt">
+</Property><Property Name="方案檔" Value="C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\comt.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\comt.suo">
+</Property><Property Name="Date" Value="2013年6月3日">
+</Property><Property Name="Time" Value="上午 01:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="comt.sln" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt.sln">
+</Event><Event ErrorLevel="0" Project="" Source="comt.suo" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt.suo">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\comt.csproj" Description="專案檔已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\comt.csproj">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\comt.csproj.user" Description="專案使用者檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\comt.csproj.user">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Demonstrate.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Demonstrate.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Demonstrate.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Demonstrate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Form1.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Form1.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Form1.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Form2.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Form2.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Form2.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\ImportSetting.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\ImportSetting.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\ImportSetting.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\ImportSetting.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Ini.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Ini.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Keyboard.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Keyboard.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Keyboard.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Keyboard.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Program.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Program.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Rank.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Rank.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Rank.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Rank.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Rating.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Rating.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Rating.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Rating.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Result.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Result.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Result.Designer.cs" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Result.Designer.cs">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\comt_TemporaryKey.pfx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\comt_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\taekwondo.ico" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\taekwondo.ico">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Demonstrate.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Demonstrate.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Form1.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Form1.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Form2.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Form2.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\ImportSetting.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\ImportSetting.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Keyboard.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Keyboard.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Rank.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Rank.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Rating.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Rating.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\Result.resx" Description="檔案已成功備份為 C:\Users\BEST\Desktop\20130427\This - 複製\20130520_0237\DemoVer1\20130603\20130603\Backup\comt\Result.resx">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\comt.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="comt" Source="comt\comt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="comt.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="comt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="comt" Source="comt\comt.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
